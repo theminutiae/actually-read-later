@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Use - Actually Read Later</title>
+</head>
+<body>
+
+<h1>Terms of Use for Actually Read Later</h1>
+
+<p>Effective date: 25 February 2026</p>
+
+<p>Actually Read Later is a Chrome extension. These terms of use govern your use of the extension.</p>
+
+<h2>Acceptance of Terms</h2>
+
+<p>By installing or using Actually Read Later, you agree to these terms. If you do not agree, do not install or use the extension.</p>
+
+<h2>What the Extension Does</h2>
+
+<p>Actually Read Later is a personal reading list manager. It allows you to save web page URLs and text highlights to a locally-stored queue, track reading status, and organise items by category.</p>
+
+<p>All data is stored on your device using <code>chrome.storage.local</code>. Nothing is sent to any server.</p>
+
+<h2>Data Storage and Loss</h2>
+
+<p>All reading list data — including saved pages, highlights, categories, and settings — is stored exclusively in your browser's local extension storage. It is not backed up to any server, cloud service, or external database.</p>
+
+<p><strong>The developer of Actually Read Later accepts no responsibility for any loss of saved reading list items, bookmarks, highlights, or any other data stored by the extension.</strong></p>
+
+<p>Data loss may occur as a result of, but is not limited to:</p>
+
+<ul>
+  <li>Uninstalling or reinstalling the extension</li>
+  <li>Clearing your browser's storage, cache, cookies, or site data</li>
+  <li>Resetting your browser to factory settings</li>
+  <li>Browser updates, crashes, or corruption of local storage</li>
+  <li>Switching to a different browser or device</li>
+  <li>Chrome profile deletion or corruption</li>
+  <li>Operating system reinstallation or migration</li>
+  <li>Any browser policy or enterprise configuration that clears extension data</li>
+  <li>Hardware failure</li>
+  <li>Extension updates that alter the storage format</li>
+  <li>Any other cause, whether foreseeable or not</li>
+</ul>
+
+<p>There is no recovery mechanism. Deleted or lost data cannot be restored by the developer. You are solely responsible for any backup of your reading list data you wish to preserve.</p>
+
+<h2>No Warranty</h2>
+
+<p>The extension is provided "as is" and "as available", without warranty of any kind. The developer makes no representations or warranties regarding the reliability or continued availability of the extension, the persistence or integrity of stored data, compatibility with future browser versions, or freedom from bugs or errors.</p>
+
+<p>Your use of the extension is entirely at your own risk.</p>
+
+<h2>Limitation of Liability</h2>
+
+<p>To the fullest extent permitted by law, the developer of Actually Read Later shall not be liable for any loss or damage of any nature arising from your use of, or inability to use, the extension — including but not limited to loss of data, loss of business, or any other pecuniary or non-pecuniary loss.</p>
+
+<p>Nothing in these terms limits liability in circumstances where it cannot be excluded by law.</p>
+
+<h2>Changes to the Extension</h2>
+
+<p>The developer reserves the right to modify, suspend, or discontinue the extension at any time without notice. The developer is not obligated to maintain backward compatibility with previously stored data across extension updates.</p>
+
+<h2>Changes to These Terms</h2>
+
+<p>These terms may be updated from time to time. The effective date at the top of this page will reflect the most recent revision. Continued use of the extension after any changes constitutes acceptance of the revised terms.</p>
+
+<h2>Governing Law</h2>
+
+<p>These terms are governed by the laws of South Australia, Australia.</p>
+
+<h2>Contact</h2>
+
+<p>For questions about these terms, contact: theminutiaeyt@gmail.com</p>
+
+</body>
+</html>
